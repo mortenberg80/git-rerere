@@ -9,7 +9,7 @@ public class App {
         System.out.println( "Hello World!" );
     }
 
-    public void sayHello(String name) {
+    public void sayHelloToUser(String name) {
         System.out.println("Hello, " + name);
     }
 }
