@@ -3,6 +3,7 @@ package no.iterate;
 /**
  * Hello world!
  *
+ * Supports saying hello to users.
  */
 public class App {
     public static void main( String[] args ) {
