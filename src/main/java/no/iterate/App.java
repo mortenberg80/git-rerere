@@ -5,6 +5,7 @@ import java.util.List;
 /**
  * Hello world!
  *
+ * Supports saying hello to a list of users.
  */
 public class App {
     public static void main( String[] args ) {
