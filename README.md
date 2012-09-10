@@ -8,7 +8,7 @@ Clone repoistory:
 
     $ git clone git@github.com:mortenberg80/git-rerere.git
 
-Enable rerere:
+Enable rerere (this can also be applied at a global level with --global):
 
     $ git config rerere.enabled true
 
