@@ -13,4 +13,8 @@ public class App {
     public void sayHelloToUser(String name) {
         System.out.println("Hello, " + name);
     }
+
+    public void sayHeiToUser(String name) {
+        System.out.println("Hei, " + name);
+    }
 }
