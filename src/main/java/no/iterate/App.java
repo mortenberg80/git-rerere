@@ -17,4 +17,8 @@ public class App {
     public void sayHeiToUser(String name) {
         System.out.println("Hei, " + name);
     }
+
+    public void sayHejToUser(String name) {
+        System.out.println("Hej, " + name);
+    }
 }
